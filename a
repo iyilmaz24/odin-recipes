@@ -1,0 +1,55 @@
+[33mcommit 0f09cc6c5f8d6555e33427e09509ac72b521390e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: iyilmaz24 <iy22b@fsu.edu>
+Date:   Sat Jul 1 14:04:51 2023 -0400
+
+    Add new "css" directory and "styles.css" file within
+
+[33mcommit 56c321c31de6671e795bfcc0fd267c4c868087b5[m
+Author: iyilmaz24 <iy22b@fsu.edu>
+Date:   Sun Jun 25 11:17:25 2023 -0400
+
+    Fill out html files with text content and image
+
+[33mcommit d72a3034867b4fa61fd047951ce0eee434695e54[m
+Author: iyilmaz24 <iy22b@fsu.edu>
+Date:   Sun Jun 25 10:57:03 2023 -0400
+
+    Add anchor tags for 2 html files, create <ul> list
+    
+    Add anchor tags for the "dumpling_soup.html" and "fruit_salad.html"
+    files. Put all recipe page linking anchor tags in a unordered list.
+
+[33mcommit e1edc4cedcbc7048f63d15f22b39bd761f5fc7c4[m
+Author: iyilmaz24 <iy22b@fsu.edu>
+Date:   Sun Jun 25 10:52:05 2023 -0400
+
+    Create 2 html files, add boiler plate code to each
+
+[33mcommit 439eaa32d254b55f3ab006e7ddac2f6af9d3ef98[m
+Author: iyilmaz24 <iy22b@fsu.edu>
+Date:   Sun Jun 25 10:43:13 2023 -0400
+
+    Fill out body of "jello.html" with content
+
+[33mcommit da035cefd92673c35deea128dfdd08580dff543d[m
+Author: iyilmaz24 <iy22b@fsu.edu>
+Date:   Sun Jun 25 10:31:01 2023 -0400
+
+    Create directory "images", add 3 jpg files for use
+
+[33mcommit eed30cd4f8afad8bcfdc3f3059fc6c63b9834864[m
+Author: iyilmaz24 <iy22b@fsu.edu>
+Date:   Sun Jun 25 10:18:54 2023 -0400
+
+    Make directory + file inside it, edit "index.html"
+    
+    Create directory "recipes" to store recipe html files as
+    website develops further. Create "jello.html" file inside
+    "recipes" directory to display jello recipe. Edit "index.html"
+    to link to "jello.html" when specific anchor tag clicked.
+
+[33mcommit 78ab1b68cc66d09a2d3fb122e72e812cebacba85[m
+Author: iyilmaz24 <iy22b@fsu.edu>
+Date:   Sun Jun 25 10:10:29 2023 -0400
+
+    Add html boiler plate, title in head, h1 in body
